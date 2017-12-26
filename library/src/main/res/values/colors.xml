@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f74042</color>
+    <color name="colorPrimaryDark">#cf2c2d</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="clear">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#88ffffff</color>
+
+    <color name="GH_DARK_RED">#cf2c2d</color>
+    <color name="GH_SECOND_DARK_RED">#ce2e2e</color>
+    <color name="GH_RED">#f74042</color>
+    <color name="GH_SECOND_RED">#f23839</color>
+    <color name="GH_THIRD_RED">#f9494b</color>
+    <color name="GH_LIGHT_RED">#ef6565</color>
+    <color name="GH_SECOND_LIGHT_RED">#fd5a5b</color>
+    <color name="GH_LIGHTER_RED">#f2a1a0</color>
+    <color name="GH_SECOND_LIGHTER_RED">#fbb3b4</color>
+    <color name="GH_FORTH_LIGHTER_RED">#ed9192</color>
+    <color name="GH_THIRD_LIGHTER_RED">#f06465</color>
+    <color name="GH_RED_TRANS">#a6f74042</color>
+    <color name="GH_HINT_RED">#cebab9</color>
+    <color name="GH_DARK_GREEN">#4e8913</color>
+    <color name="GH_GREEN">#6fb129</color>
+    <color name="GH_SECOND_GREEN">#6ea734</color>
+    <color name="GH_THIRD_GREEN">#1b9e14</color>
+    <color name="GH_BG">#f3f3f3</color>
+    <color name="GH_LIGHT_BG">#f7f7f7</color>
+    <color name="GH_DARK_GRAY">#504c4b</color>
+    <color name="GH_SECOND_DARK_GRAY">#4d4d4d</color>
+    <color name="GH_THIRD_DARK_GRAY">#696969</color>
+    <color name="GH_GRAY">#939393</color>
+    <color name="GH_SECOND_GRAY">#787878</color>
+    <color name="GH_FORTH_GRAY">#9d9d9d</color>
+    <color name="GH_THIRD_GRAY">#a9a9a9</color>
+    <color name="GH_LIGHT_GRAY">#c6c2c3</color>
+    <color name="GH_SECOND_LIGHT_GRAY">#cbcbd5</color>
+    <color name="GH_LIGHTER_GRAY">#cccccc</color>
+    <color name="GH_SECOND_LIGHTER_GRAY">#eaeaea</color>
+    <color name="GH_INTRO_ON">#333333</color>
+    <color name="GH_INTRO_OFF">#cccccc</color>
+    <color name="GH_PS_SOON">#ff7c08</color>
+    <color name="GH_PUB">#05013c</color>
+</resources>

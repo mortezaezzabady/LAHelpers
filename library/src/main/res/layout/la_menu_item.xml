@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:id="@+id/root">
+
+    <View
+        android:id="@+id/bottom_border"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="@color/GH_SECOND_LIGHTER_GRAY"/>
+    <View
+        android:id="@+id/selected"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:background="@color/GH_THIRD_RED"
+        android:layout_gravity="right"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:textColor="@color/GH_THIRD_DARK_GRAY"
+        android:textStyle="bold"
+        android:textSize="10sp"
+        android:paddingRight="10dp"/>
+</FrameLayout>
